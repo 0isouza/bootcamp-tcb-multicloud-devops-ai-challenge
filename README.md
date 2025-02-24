@@ -1,11 +1,3 @@
----
-title: Anotações
-updated: 2025-02-24 01:01:57Z
-created: 2025-02-18 22:20:09Z
-latitude: -22.90684670
-longitude: -43.17289650
-altitude: 0.0000
----
 
 ### Anotações gerais, documentação e insights sobre o bootcamp MultiCloud, DevOps e AI Challenge.
 
